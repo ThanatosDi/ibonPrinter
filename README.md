@@ -1,6 +1,6 @@
 # ibonPrinter
 
-![Python-Version](https://img.shields.io/static/v1?label=Python&message=3.x&style=flat-square&color=success&logo=python)
+![Python-Version](https://img.shields.io/static/v1?label=Python&message=3.x&style=flat-square&color=success&logo=python&logoColor=64BAFF)
 ![Require](https://img.shields.io/static/v1?label=Require&message=requests&style=flat-square&color=success)
 
 目前僅在 Python 3.x 環境通過測試，Python 2.x 不保證運作正常  
