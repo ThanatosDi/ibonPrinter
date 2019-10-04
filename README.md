@@ -30,3 +30,10 @@ printer.upload('file.jpg', user='陳大寶', email='example@example.com')
 ```
 ### 例外錯誤: 
 RequestError: 對伺服器進行請求時發生錯誤
+
+### LICENSE:
+[MIT License](https://github.com/ThanatosDi/ibonPrinter/blob/master/LICENSE)  
+✔Commercial use  
+✔Modification  
+✔Distribution  
+✔Private use  
