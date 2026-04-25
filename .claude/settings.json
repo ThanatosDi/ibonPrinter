@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__chrome-devtools__evaluate_script",
+      "mcp__chrome-devtools__list_network_requests",
+      "mcp__chrome-devtools__get_network_request",
+      "Bash(openspec --version)",
+      "Bash(npx openspec *)",
+      "Bash(openspec list *)",
+      "Bash(command -v openspec)",
+      "Bash(openspec validate *)"
+    ]
+  }
+}

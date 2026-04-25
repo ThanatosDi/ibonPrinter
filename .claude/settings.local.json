@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(openspec new *)",
+      "Bash(openspec status *)",
+      "Bash(openspec instructions *)",
+      "Bash(.venv/Scripts/python.exe -m pytest tests/test_packaging.py -v)",
+      "Bash(uv run *)",
+      "mcp__chrome-devtools__list_pages",
+      "mcp__chrome-devtools__navigate_page"
+    ]
+  }
+}
